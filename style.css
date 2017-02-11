@@ -1,0 +1,20 @@
+/*
+Theme Name: Meu Tema
+Theme URI: http://exemplo.com/exemplo/
+Description: Um Template WordPress teste.
+Author: Gustavo Araujo
+Author URI: gustavoaraujo.github.io
+Version: 1.0
+Tags: novo
+.
+Your theme can be your copyrighted work.
+Like WordPress, this work is released under GNU General Public License, version 2 (GPL).
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+.
+ */
+
+ /* Reset default browser styles */
+@import url('styles/reset.css');
+
+/* Rebuild default browser styles */
+@import url('styles/rebuild.css');
